@@ -8,11 +8,11 @@ It is easy to use, and you can add it to your project in routines that require m
 
 The interface can return the generated image in various formats:
 
-TMemoryStream
-TBitmap
-TJPEG
-Base64 (bitmap format)
-The text generated in the captcha.
+ - TMemoryStream
+ - TBitmap
+ - TJPEG
+ - Base64 (bitmap format)
+ - The text generated in the captcha.
 
 ### How to use 
 
