@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/08 09:18:25.000.367,=C:\Users\dancarlos.dsn.pack\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/01/08 09:23:05.000.768,C:\Users\dancarlos.dsn.pack\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Daniel\Top\Delphi-Captcha-Generator\Sample\uPrin.pas</Transaction>
+    <Transaction>2024/01/08 09:23:05.000.768,C:\Users\dancarlos.dsn.pack\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Daniel\Top\Delphi-Captcha-Generator\Sample\uPrin.dfm</Transaction>
+    <Transaction>2024/01/08 09:23:16.000.397,C:\Users\dancarlos.dsn.pack\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Daniel\Top\Delphi-Captcha-Generator\Sample\DelphiCaptchaSample.dproj</Transaction>
+    <Transaction>2024/01/08 09:33:54.000.614,=C:\Daniel\Top\Delphi-Captcha-Generator\src\Captcha.Intf.pas</Transaction>
+    <Transaction>2024/01/08 09:33:54.000.588,=C:\Daniel\Top\Delphi-Captcha-Generator\src\Captcha.Enum.pas</Transaction>
+    <Transaction>2024/01/08 09:33:54.000.577,=C:\Daniel\Top\Delphi-Captcha-Generator\src\Captcha.Contract.pas</Transaction>
+    <Transaction>2024/01/08 09:33:54.000.602,=C:\Daniel\Top\Delphi-Captcha-Generator\src\Captcha.Impl.pas</Transaction>
+  </Transactions>
+</BorlandProject>
